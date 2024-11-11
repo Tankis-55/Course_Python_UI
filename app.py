@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 
-API_URL = 'https://course-python-api-gjdt.onrender.com'
+API_URL = 'https://course-python-api-gjdt.onrender.com/items'
 
  
 st.title("Streamlit Frontend for FastAPI")
